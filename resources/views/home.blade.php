@@ -120,7 +120,7 @@
 
               <div class="card-footer clearfix">
 
-                <a href="javascript:void(0)" class="btn btn-sm btn-secondary float-right">Ver todo</a>
+                <a href="{{  url('/persona') }}" class="btn btn-sm btn-secondary float-right">Ver todo</a>
               </div>
 
             </div>
@@ -193,7 +193,7 @@
 
               <div class="card-footer clearfix">
 
-                <a href="javascript:void(0)" class="btn btn-sm btn-secondary float-right">Ver todo</a>
+                <a href="{{  url('/mensaje') }}" class="btn btn-sm btn-secondary float-right">Ver todo</a>
               </div>
 
             </div>
